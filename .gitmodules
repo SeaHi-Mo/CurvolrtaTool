@@ -1,0 +1,13 @@
+[submodule "os"]
+	path = os
+	url = https://gitee.com/EspressifSystems/esp-idf.git
+[submodule "esp-gitee-tools"]
+	path = esp-gitee-tools
+	url = https://gitee.com/EspressifSystems/esp-gitee-tools.git
+[submodule "code/components/lvgl"]
+	path = code/components/lvgl
+	url = https://gitee.com/seahi007/lvgl.git
+	branch = release/v8.1
+[submodule "code/components/drivers"]
+	path = code/components/drivers
+	url = https://gitee.com/seahi007/lvgl_esp32_drivers.git
